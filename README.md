@@ -79,7 +79,7 @@ Algorithms  ████████████░░░░░░░░  Abdul 
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ss_prateek&theme=dark)](https://leetcode.com/u/ss_prateek/)
+[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/ss_prateek?theme=tokyonight&show=graph,recent)](https://leetcode.com/u/ss_prateek/)
 
 </div>
 
