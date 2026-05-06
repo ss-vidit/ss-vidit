@@ -67,6 +67,28 @@ Algorithms  ████████████░░░░░░░░  Abdul 
 
 </div>
 
+<div align="center">
+
+[![Vidit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ss-prateek&theme=tokyo-night&hide_border=true&area=true&custom_title=Vidit's%20GitHub%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ss_prateek&theme=dark)](https://leetcode.com/u/ss_prateek/)
+
+</div>
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-ss__prateek-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ss_prateek/)
+
+</div>
+
 ---
 
 ## 🗺️ Roadmap — What's Next
