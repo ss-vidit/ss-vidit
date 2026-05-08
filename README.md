@@ -17,9 +17,9 @@
 Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
 Currently in my **2nd year**, building strong foundations in algorithms, programming, and web development.
 
-- 🔭 Currently learning — **Web Development** (HTML + CSS) & **Algorithms** (Abdul Bari)
+- 🔭 Currently learning — **Web Development** (HTML + CSS) & **Algorithms**
 - 🌱 Exploring — **Data Structures & Algorithms**, **Java**, **C**
-- 🎯 Goal — Build real-world projects and crack a good internship by 3rd year
+- 🎯 Goal — Build real-world projects and crack a good internship by @nd year
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
 
 ---
@@ -42,12 +42,13 @@ Currently in my **2nd year**, building strong foundations in algorithms, program
 ## 📚 My Learning Journey
 
 ```
-Python      ████████████████░░░░  CBSE Class 12 level — Solid foundation
+Python      ████████████████░░░░  Solid foundation
 C           ████████████░░░░░░░░  Up to Dynamic Memory Allocation, Structures & Unions
-Java        ████████░░░░░░░░░░░░  Apna College — Up to Recursion (in progress)
-HTML        ████████████████░░░░  Code With Harry — Comfortable
-CSS         ████████████░░░░░░░░  Code With Harry — In progress
-Algorithms  ████████████░░░░░░░░  Abdul Bari — Up to Disjoint Set (Union-Find)
+Java        ████████░░░░░░░░░░░░  Up to Recursion (in progress)
+HTML        ████████████████░░░░  Comfortable
+CSS         ████████████░░░░░░░░  In progress
+JavaScript  █░░░░░░░░░░░░░░░░░░░  Getting Started
+Algorithms  ████████████░░░░░░░░  Up to Disjoint Set (Union-Find)
 ```
 
 ---
