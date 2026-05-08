@@ -17,7 +17,7 @@
 Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
 Currently in my **2nd year**, building strong foundations in algorithms, programming, and web development.
 
-- 🔭 Currently learning — **Web Development** (HTML + CSS) & **Algorithms**
+- 🔭 Currently learning — **Web Development** (HTML,CSS,JS) & **Algorithms**
 - 🌱 Exploring — **Data Structures & Algorithms**, **Java**, **C**
 - 🎯 Goal — Build real-world projects and crack a good internship by @nd year
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
