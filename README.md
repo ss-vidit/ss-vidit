@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Algorithms+%7C+DSA+%7C+Problem+Solving;Web+Developer+in+Progress+%F0%9F%8C%90;Java+%7C+C+%7C+Python+%7C+HTML+%7C+CSS;Learning+something+new+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Web+Development+%7C+Frontend+Projects;DSA+%7C+Algorithms+%7C+Problem+Solving;Building+projects+and+learning+by+shipping;Learning+something+new+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -100,6 +100,7 @@ Algorithms  ████████████░░░░░░░░  Up to 
 - [ ] 🧩 Start LeetCode — Easy problems first (Arrays, Strings, Linked Lists)
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
 - [ ] 📘 Learn JavaScript after CSS
+- [ ] 🤖 Explore AI/ML fundamentals and build beginner projects
 - [ ] 🏆 Apply for internships in 2nd year
 
 ---
