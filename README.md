@@ -58,8 +58,8 @@ Algorithms  ████████████░░░░░░░░  Up to 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ss-prateek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=FACC15&text_color=E5E7EB&ring_color=F97316" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-prateek&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&langs_count=8" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ss-prateek&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss-prateek&theme=github_dark" />
 
 </div>
 
