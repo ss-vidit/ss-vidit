@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Web+Development+%7C+Frontend+Projects;DSA+%7C+Algorithms+%7C+Problem+Solving;Building+projects+and+learning+by+shipping;Learning+something+new+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Web+Development+%7C+Frontend+Projects;DSA+%7C+Binary+Search+%7C+Problem+Solving;Building+projects+and+learning+by+shipping;Learning+something+new+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
-Currently in my **2nd year**, building strong foundations in algorithms, programming, and web development.
+Currently in my **2nd year**, building strong foundations in DSA, programming, and web development.
 
-- 🔭 Currently learning — **Web Development** & **Algorithms**
-- 🌱 Exploring — **Data Structures & Algorithms**, **Java**
+- 🔭 Currently learning — **JavaScript** & **DSA**
+- 🌱 Exploring — **DSA**, **Java**
 - 🤖 Starting - Fundamentals of AI/ML
 - 🎯 Goal — Build real-world projects and crack a good internship by 2nd year
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm neck-deep in recursion 🙃
@@ -36,7 +36,7 @@ Currently in my **2nd year**, building strong foundations in algorithms, program
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Currently Learning
-![DSA](https://img.shields.io/badge/DSA-Algorithms-8B5CF6?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Binary%20Search-8B5CF6?style=for-the-badge)
 ![Web Dev](https://img.shields.io/badge/Web-Development-orange?style=for-the-badge)
 
 ---
@@ -48,9 +48,9 @@ Python      ████████████████░░░░  Solid 
 C           ████████████░░░░░░░░  Up to Dynamic Memory Allocation, Structures & Unions
 Java        ████████░░░░░░░░░░░░  Up to Recursion (in progress)
 HTML        ████████████████░░░░  Comfortable
-CSS         ████████████░░░░░░░░  In progress
-JavaScript  ██████░░░░░░░░░░░░░░  Getting Started
-Algorithms  ████████████░░░░░░░░  Up to Disjoint Set (Union-Find)
+CSS         ████████████████████  Completed
+JavaScript  ██████████████████░░  Almost complete
+DSA         ██████████░░░░░░░░░░  Up to Binary Search
 ```
 
 ---
@@ -93,7 +93,7 @@ Algorithms  ████████████░░░░░░░░  Up to 
 - [ ] 🔧 Build my first complete web project (Portfolio / Calculator / Todo App)
 - [ ] ☕ Complete Java through OOP and Collections
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
-- [ ] 📘 Learn JavaScript after CSS
+- [ ] 📘 Complete JavaScript and keep building frontend projects
 - [ ] 🤖 Explore AI/ML fundamentals and build beginner projects
 - [ ] 🏆 Apply for internships in 2nd year
 
