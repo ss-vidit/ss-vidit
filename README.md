@@ -35,8 +35,8 @@ Currently in my **2nd year**, building strong foundations in DSA, programming, a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Currently Learning
-![DSA](https://img.shields.io/badge/DSA-Binary%20Search-8B5CF6?style=for-the-badge)
-![Web Dev](https://img.shields.io/badge/Web-Development-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-F97316?style=for-the-badge)
 
 ---
 
