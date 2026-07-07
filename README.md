@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Web+Dev+%7C+PSS+Player+Shipped+%F0%9F%9A%80;DSA+%7C+50%2B+LeetCode+%7C;Building+in+public+%7C+KIIT+CSE+2029;Open+to+SWE+Internships+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Web+Dev+%7C+PSS+Player+Shipped+%F0%9F%9A%80;DSA+%7C+50%2B+LeetCode+%7C+Algorithms;Building+in+public+%7C+KIIT+CSE+2029;Open+to+SWE+Internships+2027)](https://git.io/typing-svg)
 
 </div>
 
