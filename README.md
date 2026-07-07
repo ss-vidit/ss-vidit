@@ -64,7 +64,7 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 - Serverless Google Sheets login backend via Google Apps Script
 - Responsive — desktop 3-panel → mobile single column
 
-**[Live Demo](https://ss-prateek.github.io/PSS_Player/) · [GitHub](https://github.com/ss-prateek/PSS_Player)**
+**[Live Demo](https://ss-vidit.github.io/PSS_Player/) · [GitHub](https://github.com/ss-vidit/PSS_Player)**
 
 ---
 
@@ -72,14 +72,14 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ss-prateek&theme=github_dark" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss-prateek&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ss-vidit&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss-vidit&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ss-prateek&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FACC15&currStreakLabel=F97316" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ss-vidit&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FACC15&currStreakLabel=F97316" alt="GitHub Streak" />
 
 </div>
 
@@ -103,7 +103,7 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 
 ## 🗺️ Roadmap — What's Next
 
-- [x] 🔧 Build first complete web project — PSS Player ✅ (live at ss-prateek.github.io/PSS_Player)
+- [x] 🔧 Build first complete web project — PSS Player ✅ (live at ss-vidit.github.io/PSS_Player)
 - [ ] ☕ Complete Java through OOP and Collections
 - [ ] ⚛️ Learn React and build a MERN stack project
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
@@ -119,7 +119,7 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 [![Twitter](https://img.shields.io/badge/@ss__prat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ss_prat)
 [![YouTube](https://img.shields.io/badge/@prateek__32-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prateek_32)
 [![Instagram](https://img.shields.io/badge/@ss__prateek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss_prateek/)
-[![GitHub](https://img.shields.io/badge/ss--prateek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss-prateek)
+[![GitHub](https://img.shields.io/badge/ss--prateek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss-vidit)
 
 </div>
 
