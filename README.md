@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Web+Development+%7C+Frontend+Projects;DSA+%7C+Binary+Search+%7C+Problem+Solving;Building+projects+and+learning+by+shipping;Learning+something+new+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Web+Dev+%7C+PSS+Player+Shipped+%F0%9F%9A%80;DSA+%7C+50%2B+LeetCode+%7C+Striver+A2Z;Building+in+public+%7C+KIIT+CSE+2029;Open+to+SWE+Internships+2027)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,35 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫  
+Hey! I'm **Vidit**, a BTech CSE student at **KIIT University, Bhubaneswar** 🏫
 Currently in my **2nd year**, building strong foundations in DSA, programming, and web development.
 
-- 🔭 Currently building — PSS Player (music player) & learning React
-- 🌱 DSA — Striver's A2Z sheet, 50+ LeetCode problems solved
-- 🎯 Goal — Off-campus SWE internship by early 2027
+- 🔭 Currently building — **PSS Player** (music player) & learning **React**
+- 🌱 DSA — Striver's A2Z sheet, **50+ LeetCode problems** solved
+- 🎯 Goal — Off-campus **SWE internship by early 2027**
+- 💃 Outside tech — Performed at **IIT Kharagpur's Spring Fest 2026** with The Ensemble Crew
 - ⚡ Fun fact — I started with Python in Class 12 and now I'm shipping full-stack apps with serverless backends 🙃
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 PSS Player — Live Music Player
+
+> A dark-themed music player built entirely with vanilla HTML, CSS & JavaScript. No frameworks, no libraries.
+
+![PSS Player Preview](https://ss-prateek.github.io/PSS_Player/assets/screenshots/workspace_v2.png)
+
+| Feature | Details |
+|---|---|
+| 🎬 Audio Engine | YouTube IFrame API with custom 500ms seek slider |
+| 🎨 UI | Glassmorphic design with animated ambient background blobs |
+| 🔒 Backend | Serverless Google Apps Script → Google Sheets login pipeline |
+| 💾 Session | LocalStorage persistence — bypasses login on return visits |
+| 📊 Visualizer | 15-bar bouncing audio visualizer via CSS keyframes |
+| 📱 Responsive | Desktop 3-panel → tablet drawer → mobile single-column |
+
+**[🔗 Live Demo](https://ss-prateek.github.io/PSS_Player/) · [💻 GitHub](https://github.com/ss-prateek/PSS_Player)**
 
 ---
 
@@ -35,8 +57,9 @@ Currently in my **2nd year**, building strong foundations in DSA, programming, a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Currently Learning
-![DSA](https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-F97316?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -44,27 +67,14 @@ Currently in my **2nd year**, building strong foundations in DSA, programming, a
 
 ```
 Python      ████████████████░░░░  Solid foundation
-C           ████████████░░░░░░░░  Up to Dynamic Memory Allocation, Structures & Unions
+C           ████████████░░░░░░░░  Up to Dynamic Memory Allocation & Structures
 Java        ████████░░░░░░░░░░░░  Up to Recursion (in progress)
 HTML        ████████████████░░░░  Comfortable
 CSS         ████████████████████  Completed
-JavaScript  ████████████████████  Completed (shipped PSS Player)
+JavaScript  ████████████████████  Completed — shipped PSS Player
 DSA         ████████████░░░░░░░░  Arrays, Binary Search, 50+ LC solved
 React       ████░░░░░░░░░░░░░░░░  Starting
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🎵 PSS Player
-A dark-themed music player built with vanilla HTML, CSS & JavaScript.
-- YouTube IFrame API with custom seek slider
-- Glassmorphic UI with animated ambient background
-- Serverless Google Sheets login backend via Google Apps Script
-- Responsive — desktop 3-panel → mobile single column
-
-**[Live Demo](https://ss-prateek.github.io/PSS_Player/) · [GitHub](https://github.com/ss-prateek/PSS_Player)**
 
 ---
 
@@ -103,11 +113,11 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 
 ## 🗺️ Roadmap — What's Next
 
-- [x] 🔧 Build first complete web project — PSS Player ✅ (live at ss-prateek.github.io/PSS_Player)
+- [x] 🔧 Build first complete web project — **PSS Player** ✅ live at [ss-prateek.github.io/PSS_Player](https://ss-prateek.github.io/PSS_Player/)
 - [ ] ☕ Complete Java through OOP and Collections
 - [ ] ⚛️ Learn React and build a MERN stack project
 - [ ] 📁 Add 3–5 solid projects to GitHub by end of 2nd year
-- [ ] 🏆 Apply for off-campus SWE internships — target April 2027
+- [ ] 🏆 Apply for off-campus SWE internships — target **April 2027**
 
 ---
 
@@ -117,8 +127,6 @@ A dark-themed music player built with vanilla HTML, CSS & JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/Vidit%20Singh%20Sisodia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viditsinghsisodia/)
 [![Twitter](https://img.shields.io/badge/@ss__prat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ss_prat)
-[![YouTube](https://img.shields.io/badge/@prateek__32-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prateek_32)
-[![Instagram](https://img.shields.io/badge/@ss__prateek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ss_prateek/)
 [![GitHub](https://img.shields.io/badge/ss--prateek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss-prateek)
 
 </div>
