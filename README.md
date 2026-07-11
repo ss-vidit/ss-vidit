@@ -10,7 +10,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=ss-vidit&style=for-the-badge&color=blueviolet)
+
 
 </div>
 
