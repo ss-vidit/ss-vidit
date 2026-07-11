@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Web+Development+%7C+PSS+Player+Shipped+%F0%9F%9A%80;DSA+%7C+50%2B+LeetCode+Problems;Building+Projects+%7C+Learning+React;Open+to+SWE+Internships+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Web+Development+%7C+PSS+Player+Shipped+%F0%9F%9A%80;DSA+%7C+50%2B+LeetCode+Problems;Building+Projects+%7C+Learning+Node.js+%26+Express;Open+to+SWE+Internships+2027)](https://git.io/typing-svg)
 
 <br>
 
@@ -22,12 +22,12 @@ I'm **Vidit Singh Sisodia**, a **B.Tech CSE student** at **KIIT University, Bhub
 
 I'm currently focused on becoming a strong Software Engineer through consistent practice in **Data Structures & Algorithms**, **Java**, **React**, and **Full-Stack Development**.
 
-- 🔭 Building **PSS Player**
-- 🌱 Learning **React** & modern frontend development
+- 🚀 Shipped **PSS Player** — live, deployed, and open source
+- 🔭 Building backend skills with **Node.js & Express**
 - 💻 Solved **50+ LeetCode** problems
 - 🎯 Goal: Secure an **off-campus SWE Internship (2027)**
 - 🎭 Performed at **IIT Kharagpur Spring Fest 2026**
-- ⚡ Love building polished UI with Vanilla JavaScript
+- ⚡ Next up: full-stack projects combining **React** with my own backend
 
 ---
 
@@ -127,9 +127,9 @@ React       ████░░░░░░░░░░░░░░░░
 - ✅ Build & deploy PSS Player
 - 🔄 Complete Java (OOP + Collections)
 - 🔄 Master DSA (250+ LeetCode)
+- 🔄 Learn Node.js & Express
 - 🔄 Learn React
 - 🔄 Build Full Stack MERN Project
-- 🔄 Learn Node.js & Express
 - 🎯 Secure an Off-campus SWE Internship (2027)
 
 ---
